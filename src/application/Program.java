@@ -61,5 +61,6 @@ public class Program {
         System.out.print("Total price: " + order.total());
 
         sc.close();
+        //comment
     }
 }
