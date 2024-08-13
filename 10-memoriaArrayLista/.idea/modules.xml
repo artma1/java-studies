@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/10-memoriaArrayLista.iml" filepath="$PROJECT_DIR$/.idea/10-memoriaArrayLista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/100a200/100a200.iml" filepath="$PROJECT_DIR$/100a200/100a200.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo-vetor/exemplo-vetor.iml" filepath="$PROJECT_DIR$/exemplo-vetor/exemplo-vetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-vetores/exercicios-vetores.iml" filepath="$PROJECT_DIR$/exercicios-vetores/exercicios-vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provaTecnicaVetor/provaTecnicaVetor.iml" filepath="$PROJECT_DIR$/provaTecnicaVetor/provaTecnicaVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pseudosoma-testebackend/pseudosoma-testebackend.iml" filepath="$PROJECT_DIR$/pseudosoma-testebackend/pseudosoma-testebackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeaaa/testeaaa.iml" filepath="$PROJECT_DIR$/testeaaa/testeaaa.iml" />
+    </modules>
+  </component>
+</project>
